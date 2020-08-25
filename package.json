@@ -28,7 +28,7 @@
     "@babel/preset-env": "^7.10.4",
     "babel-loader": "^8.1.0",
     "escapin": "^0.3.8",
-    "serverless-webpack": "^5.3.2",
+    "serverless-webpack": "^5.3.4",
     "webpack": "^4.43.0",
     "webpack-node-externals": "^2.3.0"
   }
